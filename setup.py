@@ -123,7 +123,7 @@ import { Menu, ArrowUpRight, Github, Linkedin, Mail } from 'lucide-react';
 
 const DATA = {
   name: "Kushagra Ameta",
-  role: "CREATIVE TECHNOLOGIST & ML RESEARCHER",
+  role: "Software Development Engineer & ML RESEARCHER",
   location: "Vadodara, IN",
   projects: [
     {

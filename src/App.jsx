@@ -9,7 +9,7 @@ import Achievements from './pages/Achievements';
 const DATA = {
   name: "Kushagra Ameta",
   role: "SOFTWARE DEVELOPMENT ENGINEER",
-  tagline: "I design and build performant, visually engaging web experiences.",
+  tagline: "Backend-focused developer skilled in Python and SQL, with hands-on experience in building applications and working on machine learning projects",
   location: "Vadodara, IN",
   projects: [
     {
@@ -82,7 +82,7 @@ const Hero = () => (
 
        <div className="absolute bottom-10 right-10 text-black font-mono text-xs z-20 text-right flex flex-col gap-2">
           <p className="opacity-50">SPECIALIZATION</p>
-          <p>CREATIVE DEV • ML</p>
+          <p>BACKEND • CORE SDE</p>
        </div>
     </div>
 

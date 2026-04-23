@@ -23,7 +23,7 @@ const experiences = [
   {
     id: "02",
     role: "Machine Learning Intern",
-    org: "IIT Jodhpur — Indian Institute of Technology",
+    org: "IIT Jodhpur — Indian Institute of Technology Jodhpur",
     location: "Jodhpur, India",
     period: "Jun 2024 – Jul 2024",
     type: "ML Internship",

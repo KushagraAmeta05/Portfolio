@@ -25,14 +25,12 @@ const About = () => (
         <motion.div variants={fadeUp}>
           <p className="font-mono text-xs uppercase text-gray-500 mb-4 tracking-widest">— Bio</p>
           <p className="text-2xl md:text-3xl font-bold leading-snug tracking-tight mb-8">
-            A curious engineer who builds at the intersection of <span className="italic">AI</span> and <span className="italic">web</span>.
+          A backend-focused software engineer building robust data pipelines and integrating applied machine learning.
           </p>
           <p className="text-gray-600 leading-relaxed mb-6">
-            I'm Kushagra Ameta, a final-year B.Tech student in Information Technology at BVM Engineering College, Vadodara. I specialize in backend development with Python and building intelligent ML/DL systems that solve real problems.
-          </p>
+          I'm Kushagra Ameta, a final-year IT student at BVM specializing in Python backend development, SQL, and deploying ML models for real-world applications.          </p>
           <p className="text-gray-600 leading-relaxed mb-6">
-            My research internship at IITRAM resulted in a paper accepted at ICITSIF 2026, where I built a hybrid CNN + Transformer model for retinal disease diagnosis achieving 99% validation accuracy. I've also interned at IIT Jodhpur working on deep learning for handwriting recognition.
-          </p>
+          As a research intern at IITRAM, I engineered and deployed a 99%-accurate hybrid CNN+Transformer via FastAPI (accepted at ICITSIF 2026), building on my prior experience optimizing large-scale data pipelines at IIT Jodhpur.          </p>
           <p className="text-gray-600 leading-relaxed">
             When I'm not coding, you'll find me swimming, strumming guitar, or on the badminton court.
           </p>
@@ -45,7 +43,7 @@ const About = () => (
             <div className="border border-[#ccc] p-6 bg-white/40">
               <p className="font-bold text-lg">B.Tech — Information Technology</p>
               <p className="font-mono text-sm text-gray-600 mt-1">Birla Vishvakarma Mahavidyalaya (BVM)</p>
-              <p className="font-mono text-xs text-gray-400 mt-1">2022 – 2026 · Vadodara, Gujarat</p>
+              <p className="font-mono text-xs text-gray-400 mt-1">2022 – 2026 · Anand, Gujarat</p>
             </div>
             <div className="border border-[#ccc] border-t-0 p-6 bg-white/40">
               <p className="font-bold text-lg">CBSE XII — 77%</p>
@@ -61,10 +59,10 @@ const About = () => (
             <p className="font-mono text-xs uppercase text-gray-500 mb-4 tracking-widest">— Quick Facts</p>
             <div className="grid grid-cols-2 gap-4">
               {[
-                { label: "Role", val: "Backend + ML Dev" },
+                { label: "Role", val: "Backend Engineer" },
                 { label: "Location", val: "Vadodara, IN" },
                 { label: "Status", val: "Open to Work" },
-                { label: "Focus", val: "Python · AI/ML" },
+                { label: "Focus", val: "Python Backend · APIs · SQL" },
               ].map(item => (
                 <div key={item.label} className="border border-[#ccc] p-4 bg-white/40">
                   <p className="font-mono text-xs text-gray-400 uppercase mb-1">{item.label}</p>
