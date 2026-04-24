@@ -55,7 +55,7 @@ const Contact = () => {
             {copied ? '✓ Copied!' : 'Copy Email'}
           </button>
           <a
-            href="https://linkedin.com/in/kushagra-ameta-668b81247"
+            href="https://www.linkedin.com/in/kushagra-ameta-668b81247/"
             target="_blank"
             rel="noreferrer"
             className="border border-[#444] text-gray-400 font-mono text-sm uppercase tracking-widest px-8 py-4 hover:border-[#666] hover:text-gray-200 transition-all flex items-center gap-3"
@@ -70,7 +70,7 @@ const Contact = () => {
             <p className="font-mono text-xs uppercase mb-4 text-gray-500 tracking-widest">Socials</p>
             <div className="flex flex-col gap-2 font-bold text-lg">
               <a
-                href="https://linkedin.com/in/kushagra-ameta-668b81247"
+                href="https://www.linkedin.com/in/kushagra-ameta-668b81247/"
                 target="_blank"
                 rel="noreferrer"
                 className="hover:opacity-50 transition-opacity flex items-center gap-2"

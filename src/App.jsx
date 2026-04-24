@@ -156,9 +156,9 @@ const Footer = () => (
         <div>
            <p className="font-mono text-xs uppercase mb-4 opacity-50">Socials</p>
            <div className="flex flex-col gap-2 font-bold text-lg">
-              <a href="https://linkedin.com/in/kushagra-ameta" target="_blank" rel="noreferrer" className="hover:opacity-50 transition-opacity">LinkedIn</a>
-              <a href="https://github.com/kushagra-ameta" target="_blank" rel="noreferrer" className="hover:opacity-50 transition-opacity">Github</a>
-              <a href="https://twitter.com/kushagra-ameta" target="_blank" rel="noreferrer" className="hover:opacity-50 transition-opacity">Twitter</a>
+              <a href="https://www.linkedin.com/in/kushagra-ameta-668b81247/" target="_blank" rel="noreferrer" className="hover:opacity-50 transition-opacity">LinkedIn</a>
+              <a href="https://github.com/KushagraAmeta05" target="_blank" rel="noreferrer" className="hover:opacity-50 transition-opacity">Github</a>
+              <a href="https://leetcode.com/u/1BDAhW8Djt/" target="_blank" rel="noreferrer" className="hover:opacity-50 transition-opacity">Leetcode</a>
            </div>
         </div>
         <div>

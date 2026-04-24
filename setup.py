@@ -260,7 +260,7 @@ const Footer = () => (
            <div className="flex flex-col gap-2 font-bold text-lg">
               <a href="#" className="hover:opacity-50 transition-opacity">LinkedIn</a>
               <a href="#" className="hover:opacity-50 transition-opacity">Github</a>
-              <a href="#" className="hover:opacity-50 transition-opacity">Twitter</a>
+              <a href="#" className="hover:opacity-50 transition-opacity">Leetcode</a>
            </div>
         </div>
         <div>
