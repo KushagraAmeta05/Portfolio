@@ -5,6 +5,8 @@ import About from './pages/About';
 import Experience from './pages/Experience';
 import Skills from './pages/Skills';
 import Achievements from './pages/Achievements';
+import WorkPage from './pages/Work';
+
 
 const DATA = {
   name: "Kushagra Ameta",
@@ -181,7 +183,7 @@ export default function App() {
       <Hero />
       <About />
       <Experience />
-      <Work />
+      <WorkPage />
       <Skills />
       <Achievements />
       <Footer />
