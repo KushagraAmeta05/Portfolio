@@ -6,6 +6,7 @@ import Experience from './pages/Experience';
 import Skills from './pages/Skills';
 import Achievements from './pages/Achievements';
 import WorkPage from './pages/Work';
+import { Analytics } from '@vercel/analytics/react';
 
 
 const DATA = {
@@ -187,6 +188,7 @@ export default function App() {
       <Skills />
       <Achievements />
       <Footer />
+      <Analytics />
     </div>
   );
 }
